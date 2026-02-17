@@ -1,0 +1,22 @@
+header {
+  backdrop-filter: blur(10px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+.logo {
+  display: flex;
+  margin-right: 50px;
+}
+
+div.linkNav {
+  display: flex;
+  gap: 5rem;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
